@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\TensorFlow-ENet-master\\training\\log\\model.ckpt-0"
+all_model_checkpoint_paths: "D:\\TensorFlow-ENet-master\\training\\log\\model.ckpt-0"

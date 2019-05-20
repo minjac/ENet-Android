@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "659",
+                        "endColumns": "54",
+                        "endOffsets": "709"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,23,22,21,18",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "710,779,961,902,841,660",
+                        "endColumns": "68,61,67,58,60,49",
+                        "endOffsets": "774,836,1024,956,897,705"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "650,719,781,849,908,969",
+                        "endColumns": "68,61,67,58,60,49",
+                        "endOffsets": "714,776,844,903,964,1014"
+                    }
+                },
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
+                    },
+                    "to": {
+                        "startLines": "17,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1019,1102,1152",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "1097,1147,1231"
+                    }
+                },
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "972,893,849,804,761,719,1042",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1037,931,888,844,799,756,1105"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "781,664,726,862,891,1088",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "828,720,775,885,1082,1361"
+                    },
+                    "to": {
+                        "startLines": "20,22,23,24,25,29",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1236,1382,1442,1495,1522,1718",
+                        "endLines": "20,22,23,24,28,34",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1282,1437,1490,1517,1713,1991"
+                    }
+                },
+                {
+                    "source": "D:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "658",
+                        "endColumns": "95",
+                        "endOffsets": "749"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1287",
+                        "endColumns": "94",
+                        "endOffsets": "1377"
+                    }
+                }
+            ]
+        }
+    ]
+}

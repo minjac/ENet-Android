@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:18:1-48:12
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] D:\image-segmenter-android-master\gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a760bf1357a2116051bdf1f87492c195\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:19:5-42
+	xmlns:android
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:23:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:25:22-68
+uses-sdk
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:27:5-29:41
+	android:targetSdkVersion
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:29:9-38
+	android:minSdkVersion
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:28:9-35
+application
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:31:5-46:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] D:\image-segmenter-android-master\gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a760bf1357a2116051bdf1f87492c195\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] D:\image-segmenter-android-master\gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\a760bf1357a2116051bdf1f87492c195\AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:33:9-41
+	android:debuggable
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:32:9-34
+	android:icon
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:31:18-44
+	android:theme
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:35:9-45
+activity#org.tensorflow.demo.SegmentationActivity
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:37:9-45:20
+	android:screenOrientation
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:38:19-55
+	android:label
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:39:19-69
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:37:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:42:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:43:17-86
+	android:name
+		ADDED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:43:27-83
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\aa\ENet-outdoor-android\ENet-outdoor-android\AndroidManifest.xml:18:1-48:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

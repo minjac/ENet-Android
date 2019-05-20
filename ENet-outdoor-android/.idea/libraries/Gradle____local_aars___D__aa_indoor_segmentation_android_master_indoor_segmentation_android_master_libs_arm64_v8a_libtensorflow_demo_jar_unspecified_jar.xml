@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\aa\indoor-segmentation-android-master\indoor-segmentation-android-master\libs\arm64-v8a\libtensorflow_demo.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/arm64-v8a/libtensorflow_demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

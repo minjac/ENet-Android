@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite:0.0.0-gpu-experimental@aar">
+    <CLASSES>
+      <root url="jar://D:/image-segmenter-android-master/gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-gpu-experimental.aar/a7ca6e94220655cb7883a26c60a6f43e/jars/classes.jar!/" />
+      <root url="file://D:/image-segmenter-android-master/gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-gpu-experimental.aar/a7ca6e94220655cb7883a26c60a6f43e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

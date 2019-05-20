@@ -1,0 +1,4 @@
+#Tue May 07 16:17:12 CST 2019
+base.0=D\:\\aa\\ENet-outdoor-android\\ENet-outdoor-android\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\119
+path.0=classes.dex
+renamed.0=classes.dex

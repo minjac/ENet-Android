@@ -1,0 +1,5 @@
+_background_
+sidewalk
+road
+zebra crossing
+building
